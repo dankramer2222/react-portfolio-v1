@@ -9,7 +9,7 @@ const PlayerNetworks = () => {
       <a href="https://github.com/dankramer2222">
         <FontAwesomeIcon icon={faGithub} />
       </a>
-      <a href="https://www.linked/in.comin/danilaalbutov">
+      <a href="https://www.linkedin.com/in/danilaalbutov">
         <FontAwesomeIcon icon={faLinkedin} />
       </a>
     </div>

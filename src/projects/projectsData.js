@@ -9,8 +9,7 @@ const projects = {
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          this project under development,check this page few days later,thanks.
         </p>
       </>
     ),
@@ -23,26 +22,25 @@ const projects = {
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Productivity app,I made it with framework flask,u can check github repository,but im not deploeyd it yet
+        this project under development,check this page few days later,thanks.
         </p>
       </>
     ),
-    github: "https://github.com",
+    github: "https://github.com/dankramer2222/FlaskAdminPage",
     demo: "https://netlify.com",
   },
   3: {
-    title: "Food Delivery App",
+    title: "VisualNovelGameAi",
     image: projectThree,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        this project under development,check this page few days later,thanks. realize date 09.01.2023,check this page later,thanks
         </p>
       </>
     ),
-    github: "https://github.com",
+    github: "https://github.com/dankramer2222/VisualNovelGameAI",
     demo: "https://netlify.com",
   },
 };
