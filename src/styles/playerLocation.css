@@ -1,0 +1,19 @@
+#locationContainer {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    text-align: right;
+  }
+  
+  #locationTitle {
+    margin: 0;
+    font-size: 0.8rem;
+    color: white;
+  }
+  
+  #languages {
+    margin: 0;
+    font-size: 0.7rem;
+    color: lightgray;
+  }
+  
