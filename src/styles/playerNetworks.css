@@ -1,13 +1,22 @@
-.icon-container {
+/* playerNetworks.css */
+
+.player-networks {
     position: fixed;
     top: 1rem;
     right: 1rem;
     display: flex;
     gap: 1rem;
-  }
-  
-  /* Стили для иконок */
-  .icon {
     font-size: 24px; /* Размер иконок (можете настроить) */
     color: #333; /* Цвет иконок (можете настроить) */
   }
+  
+  .player-networks a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .player-networks a:hover {
+    color: #007bff; /* Измените на желаемый цвет при наведении */
+  }
+  

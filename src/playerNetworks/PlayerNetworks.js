@@ -1,27 +1,19 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
-import "../styles/playerNetworks.css"; // Импорт файла стилей
+import "../styles/playerNetworks.css"; // Импорт стилей
 
-const App = () => {
+const PlayerNetworks = () => {
   return (
-    <div>
-      {/* Контейнер для иконок */}
-      <div className="icon-container">
-        {/* Ссылка на ваш GitHub профиль */}
-        <a href="ссылка на GitHub профиль">
-          <FontAwesomeIcon className="icon" icon={faGithub} />
-        </a>
-
-        {/* Ссылка на ваш LinkedIn профиль */}
-        <a href="ссылка на LinkedIn профиль">
-          <FontAwesomeIcon className="icon" icon={faLinkedin} />
-        </a>
-      </div>
-
-      {/* Остальной контент вашего сайта */}
+    <div className="player-networks">
+      <a href="https://github.com/dankramer2222">
+        <FontAwesomeIcon icon={faGithub} />
+      </a>
+      <a href="https://www.linked/in.comin/danilaalbutov">
+        <FontAwesomeIcon icon={faLinkedin} />
+      </a>
     </div>
   );
 };
 
-export default App;
+export default PlayerNetworks;

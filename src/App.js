@@ -9,6 +9,7 @@ import "./styles/app.css";
 import Background from "./background/Background.js";
 import PlayerStats from "./playerStats/PlayerStats.js";
 import PlayerLocation from "./playerLocation/PlayerLocation.js";
+import PlayerNetworks from "./playerNetworks/PlayerNetworks.js";
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
       </Routes>
       <PlayerStats />
       <PlayerLocation/>
+      <PlayerNetworks/>
     </Router>
   );
 };
