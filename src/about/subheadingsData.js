@@ -76,8 +76,9 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          As an Automation Engineer, my responsibilities included developing and maintaining automated test scripts to validate software functionality.
+           I used programming languages and testing frameworks to create efficient and reliable automated tests that could be repeatedly executed.
+            I integrated these automated tests into continuous integration pipelines and used Jira to create and manage test-related tickets.
           </p>
         </>
       ),
@@ -87,19 +88,23 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          In my role as a Manual QA, I was tasked with meticulously reviewing software applications to identify and report defects. 
+          I created detailed test cases to ensure comprehensive coverage of various functionalities, 
+          executing them systematically and documenting the outcomes. Using Jira, I managed and tracked these test cases, 
+          transforming them into actionable tickets
           </p>
         </>
       ),
     },
     {
-      title: "2019 IT Consultant",
+      title: "2019 IT System administrator",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          As a System Administrator, I was responsible for installing, configuring, and maintaining hardware and software systems. 
+          I managed user accounts and access, ensuring data security, and implemented regular data backups and recovery procedures.
+           Additionally, I provided technical support to users, monitored system performance, and actively participated in IT projects to
+            enhance overall infrastructure.
           </p>
         </>
       ),
